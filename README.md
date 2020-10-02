@@ -8,7 +8,9 @@ To apply this to other pages, make sure you include
   <link rel= "stylesheet" href = "../read-karaoke.css" />
 ```
 in the `<head>`, and
-``` ```
+```
+<script src="../read-karaoke.js"></script>
+```
 at the end of the `<body>`
 
 I'd also remove all unnecessary fluff and leave the story / lyrics + relevant images only.
