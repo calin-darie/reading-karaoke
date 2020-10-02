@@ -1,0 +1,10 @@
+body {
+  user-select:none;
+  padding-bottom:30px;  
+  color: darkgray;
+}
+
+.syllable.highlight {
+  color: black;
+  text-decoration: underline;
+}
