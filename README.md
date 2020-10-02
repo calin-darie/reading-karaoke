@@ -14,3 +14,5 @@ in the `<head>`, and
 at the end of the `<body>`
 
 I'd also remove all unnecessary fluff and leave the story / lyrics + relevant images only.
+
+Try it out [here](public-domain/mos-craciun-cu-plete-dalbe.html)
